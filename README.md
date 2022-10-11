@@ -1,1 +1,1 @@
-# ue-hospital-use-case-scenario
+# Utility elicitation: Hospital triage use case scenario
